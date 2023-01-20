@@ -32,7 +32,7 @@ const handleProductos = (e)=>{
     <form className="">
       <label
       className="block text-center text-5xl font-bold mb-8"
-      htmlFor="">Productos mas buscados</label>
+      htmlFor="">Productos mas buscados!</label>
       <div className="flex justify-center">
       <select 
       onChange={(e)=>handleProductos(e)}
