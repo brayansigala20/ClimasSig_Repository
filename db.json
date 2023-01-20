@@ -1,0 +1,115 @@
+{
+    "compresores":[
+        {
+            "id": 1,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 2,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 3,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 4,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 5,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 6,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 7,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 8,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 9,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }, {
+            "id": 10,
+            "descripcion":"compresor dodge ram 2001",
+            "modelo":"Ram",
+            "marca":"dodge",
+            "tipo":"pick up",
+            "año": 2005,
+            "imagen":"dodgeRam2005.jpeg"
+        }
+      ],
+
+      "Boilers": [{
+        "id":1,
+        "descripcion":"sensor Temperatura boiler",
+        "modelo":"heatweabe",
+        "tipo":"caletador agua de paso",
+        "año":"2022",
+        "imagen":"sensorTemperaturaBoiler.jpeg"
+      }],
+
+      "Lavadoras":[{
+        "id":1,
+        "descripcion":"actuador whirpool ",
+        "modelo":"whirpool",
+        "tipo":"lavadora",
+        "año":"2022",
+        "imagen":"actuadorWhirpoolrojo.jpeg"
+
+      }],
+      
+      "Motores":[{
+        "id":1,
+        "descripcion":"motor 1/8 sympony IMCO",
+        "modelo":"5426426",
+        "tipo":"sympony aeris diamanmte",
+        "año":"2022",
+        "imagen":"1-8motor.jpeg"
+
+    }]
+      }
+    
