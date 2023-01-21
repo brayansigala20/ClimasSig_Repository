@@ -11,7 +11,7 @@ const Layout = () => {
         </nav>
 
         <main className='flex content-center justify-center'>
-            <div className=' py-20 px-10'>
+            <div className=' py-20 min-h-screen px-10'>
             <Outlet/>
             </div>
         </main>
