@@ -45,13 +45,13 @@ const handleProductos = (e)=>{
       </div>
   
     </form>
-         <div className="grid grid-cols-4">
+         <div className={`${productos ? 'grid grid-cols-4' : 'text-4xl text-center capitalize'}`}>
          {productos ? productos.map(producto=> (
       <Productos
       key={producto.id}
       producto={producto}
       />
-    )): <p>no hay productos</p>}
+    )): <p>no hay productos!</p>}
     
          </div>
     </>
